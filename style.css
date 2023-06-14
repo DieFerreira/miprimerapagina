@@ -27,11 +27,12 @@ body {
     justify-content: space-between;
     width: 100%;
 }
-.boton-logo{
+
+.boton-logo {
     width: 65px;
 }
 
-.logos{
+.logos {
     width: 80%;
 }
 
@@ -164,7 +165,7 @@ p {
 
 .logo {
     width: 23%;
-    }
+}
 
 footer {
     margin-top: 20px;
@@ -215,9 +216,11 @@ footer {
     header {
         background-color: #333;
     }
-    .imagenes{
+
+    .imagenes {
         display: flex;
         flex-direction: column;
+    }
 }
 
 @media (max-width:767px) {
@@ -270,5 +273,4 @@ footer {
 
 
     }
-}
 }
